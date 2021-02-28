@@ -6,5 +6,5 @@ const (
 	CAConstraint         = 0
 	ServiceCRTConstraint = 1
 	TrustAnchorAssertion = 2
-	DomainIssuedCert     = 4
+	DomainIssuedCert     = 3
 )
